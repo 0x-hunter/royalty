@@ -1,0 +1,23 @@
+{
+  "name": "royalty",
+  "version": "1.0.0",
+  "description": "A way to retrieve increasement royalty (or just royalty) payment information for non-fungible tokens (NFTs).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x-hunter/royalty.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0x-hunter/royalty/issues"
+  },
+  "homepage": "https://github.com/0x-hunter/royalty#readme",
+  "devDependencies": {
+    "hardhat": "^2.12.2"
+  }
+}
